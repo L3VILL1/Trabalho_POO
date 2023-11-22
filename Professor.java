@@ -5,4 +5,7 @@ public class Professor extends Pessoa {
    public void gerenciarProfessores(){
       //ADICIONAR METODO
    }
+   public void emitirDeclaracaoProfessor(){
+      //ADD METODO
+   }
 }

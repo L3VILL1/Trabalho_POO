@@ -5,5 +5,8 @@ public class Aluno extends Pessoa{
     public void gerenciarAlunos(){
         //ADICIONAR METODO
     }
+    public void emitirDeclaracaoAluno(){
+        //ADD METODO
+    }
     }
 
